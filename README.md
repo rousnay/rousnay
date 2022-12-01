@@ -1,7 +1,7 @@
 ### Hey! 👋 I'm Rousnay, an  Engineer, Programmer, Traveler and an Avid learner
 ![Github stats](https://github-readme-stats.vercel.app/api?username=rousnay&count_private=true)
 
-## 🛠️ Area of my expertise (tools and technologies)
+## Area of my expertise (tools and technologies)
 
 **Languages and Frameworks:**
 
@@ -50,15 +50,11 @@
 <br /><br />
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rousnay&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rousnay&layout=compact)
 
-<!-- ### 🔭 I’m currently working on ...
-### 🌱 I’m currently learning ... -->
+<br /><br /><br />
 
-<br /><br />
-<br /><br />
-### *📫 Reach me / hire me:*
-___
+### *Reach me / hire me:*
 
 [<img align="left" alt="Mozahidur Rahman Rousnay" height="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Mozahidur Rahman Rousnay on Facebook" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/facebook.svg" />][facebook]
