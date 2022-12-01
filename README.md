@@ -2,6 +2,7 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=rousnay&count_private=true)
 
 ### 🛠️ Area of my expertise (tools and technologies)
+___
 
 **Languages and Frameworks:**
 
@@ -56,6 +57,7 @@
 ### 🌱 I’m currently learning ... -->
 
 ### 📫 Reach me / hire me:
+___
 
 [<img align="left" alt="Mozahidur Rahman Rousnay" height="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Mozahidur Rahman Rousnay on Facebook" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/facebook.svg" />][facebook]
