@@ -1,13 +1,12 @@
 ### Hey! 👋 I'm Rousnay, an  Engineer, Programmer, Traveler and an Avid learner
 ![Github stats](https://github-readme-stats.vercel.app/api?username=rousnay&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rousnay)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rousnay&layout=compact)
 
 ### 🛠️ Languages, Technologies and Tools
 
 <img align="left" alt="Sass" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="JavaScript" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/es6/es6.png" />
 <img align="left" alt="React" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Gatsby" height="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/redux/redux.png" />
 <img align="left" alt="Node.js" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
@@ -21,8 +20,8 @@
 
 <br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+### 🔭 I’m currently working on ...
+### 🌱 I’m currently learning ...
 
 ### 📫 How to reach me:
 
