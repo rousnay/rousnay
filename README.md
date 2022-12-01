@@ -52,7 +52,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rousnay&layout=compact)
 
-<br /><br /><br />
+<br /><br />
 
 ### *Reach me / hire me:*
 
