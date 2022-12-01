@@ -3,7 +3,7 @@
 
 ### 🛠️ Area of my expertise (tools and technologies)
 
-**Languages:**
+**Languages and Frameworks:**
 
 <img align="left" alt="JavaScript" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="typescript" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
@@ -14,10 +14,6 @@
 <img align="left" alt="sql" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <!-- <img align="left" alt="css3" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> -->
 <img align="left" alt="html5" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<br /><br />
-
-**Frameworks:**
-
 <img align="left" alt="React" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="wordpress" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" />
 <img align="left" alt="shopify" height="26px" style="" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/shopify.svg" />
@@ -29,7 +25,7 @@
 <img align="left" alt="Sass" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <br /><br />
 
-**Technologies:**
+**Technologies and Tools:**
 
 <img align="left" alt="graphql" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 <img align="left" alt="mqtt" height="26px" src="https://raw.githubusercontent.com/github/explore/6afe2c43768e7ef1e252839a1f1c12b730faa007/topics/mqtt/mqtt.png" />
@@ -40,10 +36,6 @@
 <img align="left" alt="firebase" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
 <img align="left" alt="google-cloud" height="26px" src="https://raw.githubusercontent.com/github/explore/08e8077e6cd7375c007c6fd6ac8cced5d7738494/topics/google-cloud/google-cloud.png" />
 <img align="left" alt="azure" height="26px" src="https://raw.githubusercontent.com/github/explore/eaef8552d8b082ffafe2bfc8a5023d47da904aac/topics/azure/azure.png" />
-<br /><br />
-
-**Tools:**
-
 <img align="left" alt="selenium" height="26px" src="https://raw.githubusercontent.com/github/explore/6c7084bb772f6fabaae377f5ae4a607594234ee6/topics/selenium/selenium.png" />
 <img align="left" alt="Git" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Terminal" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
