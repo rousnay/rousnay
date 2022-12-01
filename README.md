@@ -15,8 +15,9 @@
 <img align="left" alt="Git" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Terminal" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
 <br />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rousnay&layout=compact)
 
 ### 🔭 I’m currently working on ...
 ### 🌱 I’m currently learning ...
@@ -29,8 +30,6 @@
 [<img align="left" alt="Mozahidur Rahman Rousnay on Upwork" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/upwork.svg" />][upwork]
 [<img align="left" alt="Mozahidur Rahman Rousnay on Toptal" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/toptal.svg" />][toptal]
 <br />
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rousnay&layout=compact)
 
 [website]: https://rousnay.com/
 [facebook]: https://www.facebook.com/rousnay/
