@@ -1,4 +1,4 @@
-### Hey! 👋 I'm Rousnay, an  Engineer, Programmer, Traveler and an Avid learner
+### Hey! 👋 I'm Rousnay, I love to resolve problems with my programming and engineering skills
 ![Github stats](https://github-readme-stats.vercel.app/api?username=rousnay&count_private=true)
 
 ## Area of my expertise (tools and technologies)
