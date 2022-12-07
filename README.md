@@ -1,5 +1,6 @@
 ### Hey! 👋 I'm Rousnay, I love to resolve problems with my programming and engineering skills
-![Github stats](https://github-readme-stats.vercel.app/api?username=rousnay&count_private=true)
+<!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=rousnay&count_private=true) -->
+I am a full-stack developer with sound knowledge in JavaScript-based *(Node.js/React.js)* web application development and have 6+ years of experience with WordPress custom theme and plugin development.
 
 ## Area of my expertise (tools and technologies)
 
