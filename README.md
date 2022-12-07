@@ -58,8 +58,6 @@ A full-stack developer with sound knowledge in JavaScript-based *(Node.js/React.
 ### *Reach me / hire me:*
 
 [<img align="left" alt="Mozahidur Rahman Rousnay" height="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Mozahidur Rahman Rousnay on Facebook" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/facebook.svg" />][facebook]
-[<img align="left" alt="Mozahidur Rahman Rousnay on instagram" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Mozahidur Rahman Rousnay on StackOverflow" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/stackoverflow.svg" />][stackoverflow]
 [<img align="left" alt="Mozahidur Rahman Rousnay on Linkedin" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Mozahidur Rahman Rousnay on Upwork" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/upwork.svg" />][upwork]
@@ -67,8 +65,6 @@ A full-stack developer with sound knowledge in JavaScript-based *(Node.js/React.
 <br />
 
 [website]: https://rousnay.com/
-[facebook]: https://www.facebook.com/rousnay/
-[instagram]: https://www.instagram.com/rousnay/
 [stackoverflow]: https://stackoverflow.com/users/2037937/rousnay/
 [linkedin]: https://www.linkedin.com/in/rousnay/
 [upwork]: https://www.upwork.com/freelancers/~01c10bd5885089a692/
