@@ -55,7 +55,7 @@ A full-stack developer with sound knowledge in JavaScript-based *(Node.js/React.
 
 <br /> -->
 
-### Connect with me / hire me for work:
+### Connect with me, or hire me for work:
 
 [<img align="left" alt="Mozahidur Rahman Rousnay" height="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Mozahidur Rahman Rousnay on StackOverflow" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/stackoverflow.svg" />][stackoverflow]
