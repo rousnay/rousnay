@@ -61,6 +61,7 @@ A full-stack developer with sound knowledge in JavaScript-based *(Node.js/React.
 [<img align="left" alt="Mozahidur Rahman Rousnay on StackOverflow" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/stackoverflow.svg" />][stackoverflow]
 [<img align="left" alt="Mozahidur Rahman Rousnay on Linkedin" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Mozahidur Rahman Rousnay on Upwork" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/upwork.svg" />][upwork]
+[<img align="left" alt="Mozahidur Rahman Rousnay on Toptal" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Mozahidur Rahman Rousnay on Toptal" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/toptal.svg" />][toptal]
 <br />
 
@@ -68,6 +69,7 @@ A full-stack developer with sound knowledge in JavaScript-based *(Node.js/React.
 [stackoverflow]: https://stackoverflow.com/users/2037937/rousnay/
 [linkedin]: https://www.linkedin.com/in/rousnay/
 [upwork]: https://www.upwork.com/freelancers/~01c10bd5885089a692/
+[instagram]: https://www.instagram.com/rousnay
 [toptal]: https://www.toptal.com/
 
 <!-- 
