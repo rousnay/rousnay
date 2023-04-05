@@ -50,10 +50,10 @@ A full-stack developer with sound knowledge in JavaScript-based *(Node.js/React.
 
 <br /><br />
 
-
+<!-- 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rousnay&layout=compact)
 
-<br />
+<br /> -->
 
 ### Connect with me / hire me for work:
 
